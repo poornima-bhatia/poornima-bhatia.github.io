@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Project | Assignment",
+    "section": "",
+    "text": "Human Computer Interaction project\n\n\n\n\n\n\nUser Experience\n\n\nHCI\n\n\nAgent Based\n\n\n\n\n\n\n\n\n\nMay 1, 2024\n\n\nPoornima Bhatia, Gangaram Siddam, Tanmay Somkuwar, Ananyaa Verma\n\n\n\n\n\n\n\n\n\n\n\n\nArtificial Intelligence assignment-4\n\n\n\n\n\n\nLISP\n\n\n\n\n\n\n\n\n\nApr 4, 2024\n\n\nPoornima Bhatia\n\n\n\n\n\n\n\n\n\n\n\n\nArtificial Intelligence assignment-3\n\n\n\n\n\n\nLISP\n\n\n\n\n\n\n\n\n\nMar 26, 2024\n\n\nPoornima Bhatia\n\n\n\n\n\n\n\n\n\n\n\n\nArtificial Intelligence assignment-2\n\n\n\n\n\n\nDFS\n\n\nBFS\n\n\n\n\n\n\n\n\n\nFeb 6, 2024\n\n\nPoornima Bhatia\n\n\n\n\n\n\n\n\n\n\n\n\nArtificial Intelligence assignment-1\n\n\n\n\n\n\nAgent\n\n\n\n\n\n\n\n\n\nJan 19, 2024\n\n\nPoornima Bhatia\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Teaching Assistant\n\n\nIndian Institute of Technology, Gandhinagar\n\n\n\n\nAug’2023-Present\n\n\n\n\n\n\n- Computing Lab: Conducting lab tasks and grading assignments for multiple semesters.Aug’2023-Nov’2023; Aug’2024-Present\n\n\n- Software Engineering & Testing: Assisted with course delivery and student support.Jan’2024-May ’2024\n\n\n- Aarohan: Managed the orientation of 50+ students with a team of 12 TAs.Dec’2023\n\n\n\n\n\n\n\n\nIT Software Engineer\n\n\nBehind Earth Pvt. Ltd, Chennai, Tamil Nadu\n\n\n\n\nFeb’2022-Apr-2022\n\n\n\n\n\n\n- Developed and maintained the Maxi Cab Booking  and built the LeadWide websites. \n\n\n- Enhanced user experience and functionality using WordPress.\n\n\n\n\n\n\n\n\nWebsite Development\n\n\nDVG Soft Pvt. Ltd, Jaipur, Rajasthan\n\n\n\n\nFeb’2021-Feb’2022\n\n\n\n\n\n\n- Developed and designed a website for Professional Cemetery Services.\n\n\n- Created a dashboard page for admin and user management.\n\n\n\n\n\n\n\n\nSoftware Developer\n\n\nMangal Essakki Innovations Pvt. Ltd, Mumbai,Maharashtra\n\n\n\n\nMay’2019-Nov’2019\n\n\n\n\n\n\n- Developed MOM’s Kitchen, a food ordering and delivery web app using ReactJS and Firebase.\n\n\n- Designed a website for CA Ganesh & Kunal to transition the firm’s operations online, focusing on front-end development."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Poornima Bhatia",
+    "section": "",
+    "text": "I am currently pursuing a Master of Technology in Computer Science and Engineering at IIT Gandhinagar, specializing in Artificial Intelligence and Machine Learning. For my thesis project, I will be working under the guidance of Prof. Nipun Barta and Prof. Yogesh Meena.\nI am passionate about leveraging hard work and innovative strategies to solve real-world problems. I am eager to learn, gain new knowledge, and acquire valuable experiences to enhance my contributions to creative research.\nMy motto is “I can, will, and must.”"
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "Poornima Bhatia",
+    "section": "",
+    "text": "I am currently pursuing a Master of Technology in Computer Science and Engineering at IIT Gandhinagar, specializing in Artificial Intelligence and Machine Learning. For my thesis project, I will be working under the guidance of Prof. Nipun Barta and Prof. Yogesh Meena.\nI am passionate about leveraging hard work and innovative strategies to solve real-world problems. I am eager to learn, gain new knowledge, and acquire valuable experiences to enhance my contributions to creative research.\nMy motto is “I can, will, and must.”"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Poornima Bhatia",
+    "section": "Education",
+    "text": "Education\nI completed my Bachelor of Technology in Computer Science and Engineering at Rajasthan Technical University in Kota, Rajasthan from August 2014 to May 2018."
+  },
+  {
+    "objectID": "project-assignment/ai-assignment-1.html",
+    "href": "project-assignment/ai-assignment-1.html",
+    "title": "Artificial Intelligence assignment-1",
+    "section": "",
+    "text": "A robotic soccer agent that plays on a team composed of 3 robots. The opposing team also has 3 robots and the field is defined as a 3 ft wide and 6 ft long. Assume standard soccer rules apply and the 3 robots may play any position you define."
+  },
+  {
+    "objectID": "project-assignment/ai-assignment-2.html",
+    "href": "project-assignment/ai-assignment-2.html",
+    "title": "Artificial Intelligence assignment-2",
+    "section": "",
+    "text": "A farmer is on one side of a river and wishes to cross the river with a wolf, a chicken, and a bag of grain. He can only take one item at a time in his boat with him. He must be in the boat in order for it to cross the river. He cannot leave the chicken alone with the grain, or it will eat the grain. (Note: the chicken will not eat the grain if the farmer is on that side of the river, either in the boat or on shore.) He cannot leave the wolf alone with the chicken or the wolf will eat the chicken.\n\n\n\n\nstate.png\n\n\n\nDepth First Search\n\n\n\ndfs.png\n\n\n\n\nBreadth First Search\n\n\n\nbfs.png\n\n\n\n\nProblem Solution Tree\n\n\n\nproblem-solution-tree-0.png"
+  },
+  {
+    "objectID": "project-assignment/ai-assignment-3.html",
+    "href": "project-assignment/ai-assignment-3.html",
+    "title": "Artificial Intelligence assignment-3",
+    "section": "",
+    "text": "LISP Programming\n\nQuestion 1. Write a function called sum-of-squares that determines the sum of the squares of two numbers.\n(format t \"Write a function called Sum of Squares that determines the sum of the squares of two numbers.~%\")\n\n(defun Sum-of-Squares (x y)\n  (+ (* x x) (* y y)))\n\n(format t \"Enter the first number(x): \")\n(let ((x (read)))\n  (format t \"Enter the second number(y): \")\n  (let ((y (read)))\n    (format t \"Sum of Squares (x*x + y*y) = ~a\" (Sum-of-Squares x y))))\n\n\n\n\nQuestion 2: Write a function called greater that determines the greater number out of two numbers.\n(format t \"Write a function called greater that determines the greater number out of two numbers.~%\")\n\n(defun greater (a b)\n  (if (&gt; a b)\n      a\n      b))\n\n(format t \"Enter the first number(x): \")\n(let ((x (read)))\n  (format t \"Enter the second number(y): \")\n  (let ((y (read)))\n    (format t \"Greater Number = ~a\" (greater x y))))\n\n\n\n\nQuestion 3: Write a function called fifth that detects the fifth number in an array. Also your program should say NIL in case your array contains less than 5 numbers.\n(format t \"Write a function called fifth that detects the fifth number in an array. Also your program should say NIL in case your array contains less than 5 numbers.~%\")\n\n(defun my-fifth (arr)\n    (if (&gt;= (length arr) 5)\n        (nth 4 (coerce arr 'list))\n        NIL))\n\n(format t \"Please enter an array with at least five numbers, like #(1 2 3 4 5):  \")\n(let ((arr (read)))\n    (format t \"The fifth number in the array is: = ~a~%\" (my-fifth arr)))"
+  },
+  {
+    "objectID": "project-assignment/ai-assignment-4.html",
+    "href": "project-assignment/ai-assignment-4.html",
+    "title": "Artificial Intelligence assignment-4",
+    "section": "",
+    "text": "LISP Programming\nQueation 1. Write a function called my-insert that inserts a given element into a list at a given location (starting with position zero). If the entered location is negative then the function places the new element at the beginning of the list. If the entered location is greater than the length of the list, then the function places the new element at the end of the list.\n(my-insert ’a ’(b c d e) 0) =&gt; (A B C D E)\n(my-insert ’a ’(b c d e) 3) =&gt; (B C D A E)\n(my-insert ’a ’(b c d e) 4) =&gt; (B C D E A)\n(format t \"Write a function called my-insert that inserts a given element into a list at a given\nlocation (starting with position zero). If the entered location is negative then the function places\nthe new element at the beginning of the list. If the entered location is greater than the length of\nthe list, then the function places the new element at the end of the list.~%\")\n\n(defun my-insert (element lst position)\n  (cond ((&lt; position 0) (cons element lst))\n        ((&gt;= position (length lst)) (append lst (list element)))\n        (t (append (subseq lst 0 position)\n                   (list element)\n                   (subseq lst position)))))\n(format t \"(my-insert 'a '(b c d e) 0) =&gt; ~{~a ~}~%\" (my-insert 'a '(b c d e) 0))\n(format t \"(my-insert 'a '(b c d e) 3) =&gt; ~{~a ~}~%\" (my-insert 'a '(b c d e) 3))\n(format t \"(my-insert 'a '(b c d e) 4) =&gt; ~{~a ~}~%\" (my-insert 'a '(b c d e) 4))  \n\nQuestion 2. Write a function to remove duplicates from a list, the function is to be called myremv-dups. Note that the function is to retain the last instance of a duplicate element.\n(my-remv-dups ’(a b a c a d)) =&gt; (B C A D)\n(my-remv-dups ’(a b (a c) a d)) =&gt; (B (A C) A D)\n(my-remv-dups ’(a b (b c) a (b c) d)) =&gt; (B A (B C) D)### Question 2: Write a function called greater that determines the greater number out of two numbers.\n(format t \"Write a function to remove duplicates from a list, the function is to be called my-\nremv-dups. Note that the function is to retain the last instance of a duplicate element.~%\")\n\n(defun my-remv-dups (list_1)\n   ;; Check if the input list is empty\n  (if (null list_1)\n      ;; If the list is empty, return nil\n      \"input list is empty\"\n  ;; Otherwise, continue with the removal of duplicates\n  ;; Reverse the input list and bind it to 'reversed'\n  (let ((reversed (reverse list_1)))\n    ;; Define a local function 'helper' with parameters 'list_1' and 'list_2'\n    (labels ((helper (list_1 list_2)\n               ;; If the list is empty, return nil\n               (cond ((null list_1) nil)\n                     ;; If the first element of the list is already list_2, skip it\n                     ((member (car list_1) list_2 :test #'equal)\n                      (helper (cdr list_1) list_2))\n                     ;; Otherwise, cons the first element to the result and update the 'list_2' list\n                     (t\n                      (cons (car list_1)\n                            (helper (cdr list_1) (cons (car list_1) list_2)))))))\n      ;; Reverse the result of 'helper' and return it\n      (reverse (helper reversed nil))))))\n\n(format t \"(my-remv-dups '()) =&gt; ~@[~a~:*~]~%\" (my-remv-dups '()))\n(format t \"(my-remv-dups '(a b a c a d)) =&gt; ~{~a ~}~%\" (my-remv-dups '(a b a c a d)))\n(format t \"(my-remv-dups '(a b (a c) a d)) =&gt; ~{~a ~}~%\" (my-remv-dups '(a b (a c) a d)))\n(format t \"(my-remv-dups '(a b (b c) a (b c) d)) =&gt; ~{~a ~}~%\" (my-remv-dups '(a b a (b c) a (b c) d)))"
+  },
+  {
+    "objectID": "projects/ai-assignment-4.html",
+    "href": "projects/ai-assignment-4.html",
+    "title": "Artificial Intelligence assignment-4",
+    "section": "",
+    "text": "LISP Programming\n\nQueation 1. Write a function called my-insert that inserts a given element into a list at a given location (starting with position zero). If the entered location is negative then the function places the new element at the beginning of the list. If the entered location is greater than the length of the list, then the function places the new element at the end of the list.\n(my-insert ’a ’(b c d e) 0) =&gt; (A B C D E)\n(my-insert ’a ’(b c d e) 3) =&gt; (B C D A E)\n(my-insert ’a ’(b c d e) 4) =&gt; (B C D E A)\n(format t \"Write a function called my-insert that inserts a given element into a list at a given\nlocation (starting with position zero). If the entered location is negative then the function places\nthe new element at the beginning of the list. If the entered location is greater than the length of\nthe list, then the function places the new element at the end of the list.~%\")\n\n(defun my-insert (element lst position)\n  (cond ((&lt; position 0) (cons element lst))\n        ((&gt;= position (length lst)) (append lst (list element)))\n        (t (append (subseq lst 0 position)\n                   (list element)\n                   (subseq lst position)))))\n(format t \"(my-insert 'a '(b c d e) 0) =&gt; ~{~a ~}~%\" (my-insert 'a '(b c d e) 0))\n(format t \"(my-insert 'a '(b c d e) 3) =&gt; ~{~a ~}~%\" (my-insert 'a '(b c d e) 3))\n(format t \"(my-insert 'a '(b c d e) 4) =&gt; ~{~a ~}~%\" (my-insert 'a '(b c d e) 4))  \n\n\n\nQuestion 2. Write a function to remove duplicates from a list, the function is to be called myremv-dups. Note that the function is to retain the last instance of a duplicate element.\n(my-remv-dups ’(a b a c a d)) =&gt; (B C A D)\n(my-remv-dups ’(a b (a c) a d)) =&gt; (B (A C) A D)\n(my-remv-dups ’(a b (b c) a (b c) d)) =&gt; (B A (B C) D)### Question 2: Write a function called greater that determines the greater number out of two numbers.\n(format t \"Write a function to remove duplicates from a list, the function is to be called my-\nremv-dups. Note that the function is to retain the last instance of a duplicate element.~%\")\n\n(defun my-remv-dups (list_1)\n   ;; Check if the input list is empty\n  (if (null list_1)\n      ;; If the list is empty, return nil\n      \"input list is empty\"\n  ;; Otherwise, continue with the removal of duplicates\n  ;; Reverse the input list and bind it to 'reversed'\n  (let ((reversed (reverse list_1)))\n    ;; Define a local function 'helper' with parameters 'list_1' and 'list_2'\n    (labels ((helper (list_1 list_2)\n               ;; If the list is empty, return nil\n               (cond ((null list_1) nil)\n                     ;; If the first element of the list is already list_2, skip it\n                     ((member (car list_1) list_2 :test #'equal)\n                      (helper (cdr list_1) list_2))\n                     ;; Otherwise, cons the first element to the result and update the 'list_2' list\n                     (t\n                      (cons (car list_1)\n                            (helper (cdr list_1) (cons (car list_1) list_2)))))))\n      ;; Reverse the result of 'helper' and return it\n      (reverse (helper reversed nil))))))\n\n(format t \"(my-remv-dups '()) =&gt; ~@[~a~:*~]~%\" (my-remv-dups '()))\n(format t \"(my-remv-dups '(a b a c a d)) =&gt; ~{~a ~}~%\" (my-remv-dups '(a b a c a d)))\n(format t \"(my-remv-dups '(a b (a c) a d)) =&gt; ~{~a ~}~%\" (my-remv-dups '(a b (a c) a d)))\n(format t \"(my-remv-dups '(a b (b c) a (b c) d)) =&gt; ~{~a ~}~%\" (my-remv-dups '(a b a (b c) a (b c) d)))"
+  },
+  {
+    "objectID": "projects/ai-assignment-3.html",
+    "href": "projects/ai-assignment-3.html",
+    "title": "Artificial Intelligence assignment-3",
+    "section": "",
+    "text": "LISP Programming\n\nQuestion 1. Write a function called sum-of-squares that determines the sum of the squares of two numbers.\n(format t \"Write a function called Sum of Squares that determines the sum of the squares of two numbers.~%\")\n\n(defun Sum-of-Squares (x y)\n  (+ (* x x) (* y y)))\n\n(format t \"Enter the first number(x): \")\n(let ((x (read)))\n  (format t \"Enter the second number(y): \")\n  (let ((y (read)))\n    (format t \"Sum of Squares (x*x + y*y) = ~a\" (Sum-of-Squares x y))))\n\n\n\n\nQuestion 2: Write a function called greater that determines the greater number out of two numbers.\n(format t \"Write a function called greater that determines the greater number out of two numbers.~%\")\n\n(defun greater (a b)\n  (if (&gt; a b)\n      a\n      b))\n\n(format t \"Enter the first number(x): \")\n(let ((x (read)))\n  (format t \"Enter the second number(y): \")\n  (let ((y (read)))\n    (format t \"Greater Number = ~a\" (greater x y))))\n\n\n\n\nQuestion 3: Write a function called fifth that detects the fifth number in an array. Also your program should say NIL in case your array contains less than 5 numbers.\n(format t \"Write a function called fifth that detects the fifth number in an array. Also your program should say NIL in case your array contains less than 5 numbers.~%\")\n\n(defun my-fifth (arr)\n    (if (&gt;= (length arr) 5)\n        (nth 4 (coerce arr 'list))\n        NIL))\n\n(format t \"Please enter an array with at least five numbers, like #(1 2 3 4 5):  \")\n(let ((arr (read)))\n    (format t \"The fifth number in the array is: = ~a~%\" (my-fifth arr)))"
+  },
+  {
+    "objectID": "projects/ai-assignment-2.html",
+    "href": "projects/ai-assignment-2.html",
+    "title": "Artificial Intelligence assignment-2",
+    "section": "",
+    "text": "A farmer is on one side of a river and wishes to cross the river with a wolf, a chicken, and a bag of grain. He can only take one item at a time in his boat with him. He must be in the boat in order for it to cross the river. He cannot leave the chicken alone with the grain, or it will eat the grain. (Note: the chicken will not eat the grain if the farmer is on that side of the river, either in the boat or on shore.) He cannot leave the wolf alone with the chicken or the wolf will eat the chicken.\n\n\n\n\nstate.png\n\n\n\nDepth First Search\n\n\n\ndfs.png\n\n\n\n\nBreadth First Search\n\n\n\nbfs.png\n\n\n\n\nProblem Solution Tree\n\n\n\nproblem-solution-tree-0.png"
+  },
+  {
+    "objectID": "projects/hci-project.html",
+    "href": "projects/hci-project.html",
+    "title": "Human Computer Interaction project",
+    "section": "",
+    "text": "Agent Based Interface\n\nLITERATURE REVIEW\n\n\n\nDesign Space\n\n\n\nUser Experience\n\n\n\nFinal Report"
+  },
+  {
+    "objectID": "projects/ai-assignment-1.html",
+    "href": "projects/ai-assignment-1.html",
+    "title": "Artificial Intelligence assignment-1",
+    "section": "",
+    "text": "A robotic soccer agent that plays on a team composed of 3 robots. The opposing team also has 3 robots and the field is defined as a 3 ft wide and 6 ft long. Assume standard soccer rules apply and the 3 robots may play any position you define."
+  }
+]

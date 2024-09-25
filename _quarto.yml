@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Poornima Bhatia"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: experience.qmd
+        text: Experience
+      - href: projects.qmd
+        text: Projects | Assignments
+      - href: poornima-bhatia-resume.pdf
+        text: CV
+    tools:
+      - icon: github
+        href: https://github.com/poornima-bhatia
+
+format:
+  html:
+    theme:
+      light: minty
+    # css: ../assets/styles.css
+    toc: true
+execute:
+  freeze: auto

@@ -1,0 +1,26 @@
+---
+title: "Poornima Bhatia"
+image: ''
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/poornima-bhatia
+    - icon: github
+      text: Github
+      href: https://github.com/poornima-bhatia
+
+---
+
+## Background
+I am currently pursuing a Master of Technology in Computer Science and Engineering at IIT Gandhinagar, specializing in Artificial Intelligence and Machine Learning. For my thesis project, I will be working under the guidance of [Prof. Nipun Barta](https://nipunbatra.github.io/) and [Prof. Yogesh Meena](http://yogeshmeena.com/).
+
+I am passionate about leveraging hard work and innovative strategies to solve real-world problems. I am eager to learn, gain new knowledge, and acquire valuable experiences to enhance my contributions to creative research.
+
+My motto is **"I can, will, and must."**
+
+## Education
+I completed my Bachelor of Technology in Computer Science and Engineering at Rajasthan Technical University in Kota, Rajasthan from August 2014 to May 2018.

@@ -1,0 +1,11 @@
+/* css styles */
+.page-columns {
+     display: inherit !important;
+     grid: none !important;
+     margin: 20px auto!important;
+     max-width: 70%;
+}
+
+ul {
+     padding: 0 !important;
+}
