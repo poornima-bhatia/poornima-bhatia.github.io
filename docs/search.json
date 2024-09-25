@@ -81,7 +81,7 @@
     "href": "projects/ai-assignment-2.html",
     "title": "Artificial Intelligence assignment-2",
     "section": "",
-    "text": "A farmer is on one side of a river and wishes to cross the river with a wolf, a chicken, and a bag of grain. He can only take one item at a time in his boat with him. He must be in the boat in order for it to cross the river. He cannot leave the chicken alone with the grain, or it will eat the grain. (Note: the chicken will not eat the grain if the farmer is on that side of the river, either in the boat or on shore.) He cannot leave the wolf alone with the chicken or the wolf will eat the chicken.\n\n\n\n\nstate.png\n\n\n\nDepth First Search\n\n\n\ndfs.png\n\n\n\n\nBreadth First Search\n\n\n\nbfs.png\n\n\n\n\nProblem Solution Tree\n\n\n\nproblem-solution-tree-0.png"
+    "text": "A farmer is on one side of a river and wishes to cross the river with a wolf, a chicken, and a bag of grain. He can only take one item at a time in his boat with him. He must be in the boat in order for it to cross the river. He cannot leave the chicken alone with the grain, or it will eat the grain. (Note: the chicken will not eat the grain if the farmer is on that side of the river, either in the boat or on shore.) He cannot leave the wolf alone with the chicken or the wolf will eat the chicken.\n\n\n\nDepth First Search\n\n\n\nBreadth First Search\n\n\n\nProblem Solution Tree"
   },
   {
     "objectID": "projects/hci-project.html",
