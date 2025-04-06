@@ -37,5 +37,29 @@
   },
   "projects/ai-assignment-1.ipynb": {
     "ai-assignment-1.html": "6ba7c59c"
+  },
+  "projects/cv-assignment-1.ipynb": {
+    "cv-assignment-1.html": "3571f9ad"
+  },
+  "projects/cv-assignment-2.ipynb": {
+    "cv-assignment-2.html": "7bdac1bb"
+  },
+  "projects/cv-assignment-3.ipynb": {
+    "cv-assignment-3.html": "4982d906"
+  },
+  "projects/cv-assignment-5.ipynb": {
+    "cv-assignment-5.html": "d50a0935"
+  },
+  "projects/dl-assignment-1.ipynb": {
+    "dl-assignment-1.html": "72311fed"
+  },
+  "projects/ml-dl-project-1.ipynb": {
+    "ml-dl-project-1.html": "d85ec15f"
+  },
+  "projects/ml-dl-project-2.ipynb": {
+    "ml-dl-project-2.html": "612d37ed"
+  },
+  "projects/cv-assignment-4.ipynb": {
+    "cv-assignment-4.html": "5a8fd796"
   }
 }

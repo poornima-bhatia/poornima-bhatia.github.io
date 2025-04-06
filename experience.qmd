@@ -13,7 +13,8 @@ css: ./assets/style.css
 </div>
 <div>
 <ul>
-<li style = "display: flex; justify-content: space-between; margin-bottom:0 !important; align-items: baseline;"><span><strong>- Computing Lab</strong>: Conducting lab tasks and grading assignments for multiple semesters.</span><span><em>Aug'2023-Nov'2023; Aug'2024-Present</em></span></li>
+<li style = "display: flex; justify-content: space-between; margin-bottom:0 !important; align-items: baseline;"><span><strong>- Data-centric Computing Lab</strong>: Helping students with lab problem-solving and debugging code</span><span><em>Jan'2025-Apr'2025</em></span></li>
+<li style = "display: flex; justify-content: space-between; margin-bottom:0 !important; align-items: baseline;"><span><strong>- Computing Lab</strong>: Conducting lab tasks and grading assignments for multiple semesters.</span><span><em>Aug'2023-Nov'2023; Aug'2024-Nov'2024</em></span></li>
 <li style = "display: flex; justify-content: space-between; margin-bottom:0 !important; align-items: baseline;"><span><strong>- Software Engineering &amp; Testing</strong>: Assisted with course delivery and student support.</span><span><em>Jan'2024-May '2024</em></span></li>
 <li style = "display: flex; justify-content: space-between; margin-bottom:0 !important; align-items: baseline;"><span><strong>- Aarohan</strong>: Managed the orientation of 50+ students with a team of 12 TAs.</span><span><em>Dec'2023</em></span></li>
 </ul>
